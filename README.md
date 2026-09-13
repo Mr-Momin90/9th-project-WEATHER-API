@@ -1,2 +1,4 @@
 # 9th-project-WEATHER-API
-A simple Python-based Currency Converter that converts an amount from one currency to another. This project demonstrates basic Python concepts such as user input, calculations, functions, and conditional logic.
+A Python-based Weather API App that provides real-time weather information for a selected city or location.
+It demonstrates API integration, data fetching, JSON handling, and a simple user-friendly interface.
+
